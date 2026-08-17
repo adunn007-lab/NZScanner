@@ -1,0 +1,3 @@
+@echo off
+gradle assembleDebug
+echo APK: app\build\outputs\apk\debug\app-debug.apk
